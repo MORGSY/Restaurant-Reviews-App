@@ -5,7 +5,7 @@
 
 ### Specification
 
-The `provided` code for a restaurant reviews website has/Had a lot of issues. It was barely usable on a desktop browser, much less a mobile device. It also didn't include any standard accessibility features, and it didn't work offline at all. My job was to update the code to resolve all of these issues while still maintaining the included functionality. - Wasn't easy!!
+The `provided` code for a restaurant reviews website had a lot of issues. It was barely usable on a desktop browser, much less a mobile device. It also didn't include any standard accessibility features, and it didn't work offline at all. My job was to update the code to resolve all of these issues while still maintaining the included functionality. - Wasn't easy!!
 
 
 ### What do I do from here?
